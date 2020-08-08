@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+- [x] coffee
+- [x] apples
+- [ ] finish github tutorial
 ---
-Your text
-Use the left arrow to go back!
+
